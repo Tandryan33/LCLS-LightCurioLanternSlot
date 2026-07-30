@@ -1,0 +1,4 @@
+{
+  "entities": ["player", "minecraft:villager", "minecraft:zombie", "minecraft:armor_stand"],
+  "slots": ["lantern"]
+}
